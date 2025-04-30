@@ -38,7 +38,7 @@ MODELS = {
         'classes': ["stone"]
     },
     'lung': {
-        'path': r'C:\Users\Victus\Desktop\3\lung cancer.pt',
+        'path': r'lung cancer.pt',
         'classes': ["Tumour"]
     }
 }
