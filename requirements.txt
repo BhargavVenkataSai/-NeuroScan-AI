@@ -1,0 +1,7 @@
+Flask
+ultralytics
+opencv-python
+numpy
+reportlab
+google-generativeai
+werkzeug 
