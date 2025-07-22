@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .env
 __pycache__/
 *.pyc
@@ -8,3 +9,15 @@ __pycache__/
 .DS_Store
 *.log
 static/uploads/*
+=======
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env.*
+.DS_Store
+*.log
+static/uploads/*
+>>>>>>> 73fe07f8100795e5aab09dae4c77b1d7da78f58f
