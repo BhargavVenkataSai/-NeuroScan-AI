@@ -69,8 +69,8 @@ Experience seamless deployment with our containerized solution:
 
 ```bash
 # Clone the next-gen repository
-git clone https://github.com/MedVisionAI/Pro-Edition.git
-cd MedVisionAI-Pro
+git clone https://github.com/BhargavVenkataSai/-NeuroScan-AI.git
+cd -NeuroScan-AI
 
 # Deploy with Docker Compose (requires NVIDIA Container Toolkit)
 docker-compose -f docker-compose.gpu.yml up -d
@@ -351,7 +351,7 @@ MedVision AI Pro is dual-licensed:
 <div align="center">
   <h2>MedVision AI Pro - Redefining the Boundaries of Medical AI</h2>
   <p>Powered by cutting-edge research and clinical expertise</p>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmliaGlpZWtvbWJ3azR4a2FtbXVvbXRncTBld2trNTQ2cHF1MG1hNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3nSGQ045gEvvQFRm/giphy.gif" width="1300">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmliaGlpZWtvbWJ3azR4a2FtbXVvbXRncTBld2trNTQ2cHF1MG1hNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3nSGQ045gEvvQFRm/giphy.gif" width="130" alt="Medical AI">
 </div>
 
 This state-of-the-art edition incorporates:
@@ -361,8 +361,4 @@ This state-of-the-art edition incorporates:
 - Explainable AI for medical decision support
 - Continuous learning infrastructure
 
-For implementation in clinical settings, please contact our medical affairs team for validation studies and regulatory compliance documentation.#   M e d i c u r e - A i 
- 
- #   M e d i c u r e - A i 
- 
- 
+For implementation in clinical settings, please contact our medical affairs team for validation studies and regulatory compliance documentation.
