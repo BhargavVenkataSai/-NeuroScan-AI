@@ -8,10 +8,6 @@
 ![Google Gemini](https://img.shields.io/badge/Gemini-1.5%20Pro-green?style=for-the-badge&logo=google&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-24.0%2B-blue?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align="center">
-  <img src="1.png" alt="Medical AI Analysis Animation">
-</div>
-
 ## Table of Contents
 - [Medical Image Analysis Platform (MedVision AI) - State-of-the-Art Edition](#medical-image-analysis-platform-medvision-ai---state-of-the-art-edition)
   - [Table of Contents](#table-of-contents)
@@ -367,5 +363,6 @@ This state-of-the-art edition incorporates:
 
 For implementation in clinical settings, please contact our medical affairs team for validation studies and regulatory compliance documentation.#   M e d i c u r e - A i 
  
- #   M e d i c u r e - A i  
+ #   M e d i c u r e - A i 
+ 
  
